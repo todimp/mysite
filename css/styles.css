@@ -1,0 +1,63 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Comfortaa', cursive;
+}
+
+h1 {
+  font-family: 'Sacramento', cursive;
+  font-size: 5rem;
+  margin-top: 160px;
+  margin-bottom: 0;
+  color: #66BFBF;
+}
+
+h2 {
+  font-family: 'Comfortaa', cursive;
+  font-size: 1.5rem;
+  margin-top: 0;
+  color: #66BFBF;
+}
+
+h3 {
+  font-family: 'Comfortaa', cursive;
+  color: #11999E;
+}
+
+.top-container {
+  background-color: #CCF2F4;
+  padding-top: 50px;
+
+}
+
+.btn {
+  color: #11999E;
+}
+
+.footer-link {
+  color: #11999E;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 30%;
+  top: 160px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 30%;
+  top: 350px;
+}
+
+.skill-row {
+  margin: 100px 0;
+}
+
+.middle-container {
+
+}
+
+.bottom-container {
+
+}
